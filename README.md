@@ -71,9 +71,18 @@ Como já tinha lido na documentação que podemos usar o nome do pokemon para fa
 Para as demais informações não tive dificuldades, porém as habilidades precisavam de mais uma requisição e eram uma lista então tive certa dificuldade até chegar a um componente com useEffect.
 
 ### Inicializar o projeto
+  
+1.Clone o repositório: - 
+`git clone https://github.com/Leandro-Sousa-dev/react-pokedex`
 
-`npm install`  
+2.Navegue até a pasta: -
+`cd react-pokedex`
 
+Instale as dependências: -
+`npm install`
+
+Inicialize o servidor de desenvolvimento:-
+`npm run dev`
 ### Feito com
 
 - Vite
