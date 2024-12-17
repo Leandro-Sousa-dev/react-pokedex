@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom"
-import { PokeList } from './pokeList'
-import { Poke } from './poke'
+import { PokeList } from '../pages/pokeList'
+import { Poke } from '../pages/poke'
 
 const AppRoutes = () => (
     <>
